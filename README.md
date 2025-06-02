@@ -1,3 +1,4 @@
 # mydemo
-this is my first Git repository 
-author- fiza 
+this is my first Git repository.
+<br>
+Author- fiza.
